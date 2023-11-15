@@ -2,3 +2,7 @@
 	Similarities: Both emphasize respectful and effective communication. Both also emphasize smaller reviews, which lighten the burden on everyone and is just more effective. Both also mandate a response to all feedback.
 	Differences: Microsoft uses an Emoji code to emphasize a certain tone, while Yelp implies in-person meetings that convey intent better. Yelp has a process of picking reviewers and having a primary reviewer, while Microsoft does not have such a process.
 
+2:
+https://codereview.stackexchange.com/questions/287927/rock-paper-scissors-game
+
+This is a good code review because it focuses on the flaws of the code rather than the developer. It also provides a very detailed analysis of the problem and provides extensive guidelines on how to fix it.
