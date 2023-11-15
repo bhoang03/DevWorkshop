@@ -1,0 +1,5 @@
+https://codereview.stackexchange.com/questions/286631/systemverilog-implementation-of-an-n-bit-prefix-adder-logic-design
+
+This review is not very beneficial as it primarily covers things not relevant to the code itself.
+Telling the person they're proud of them using spacing and parameters, when such a trivial component and not what was asked for, feels almost condecending.
+I would have kept the review shorter, to keep the focus on its actual functionality and not the asthetics of the code.
